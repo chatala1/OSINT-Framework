@@ -4199,22 +4199,22 @@
     {
       "name": "OpenRailwayMap",
       "type": "url",
-      "url": "http://www.openrailwaymap.org/"
+      "url": "https://www.openrailwaymap.org/"
     },
     {
       "name": "OpenInfrastructureMap",
       "type": "url",
-      "url": "openinframap.org/"
+      "url": "https://openinframap.org/"
     },
     {
       "name": "OpenStreetMap Routing Service",
       "type": "url",
-      "url": "http://www.yournavigation.org/"
+      "url": "https://www.yournavigation.org/"
     },
     {
       "name": "Hiking & Biking Map",
       "type": "url",
-      "url": "http://hikebikemap.org/"
+      "url": "https://hikebikemap.org/"
     },
     {
       "name": "US Nav Guide Zip Code Data",

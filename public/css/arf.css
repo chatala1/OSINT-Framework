@@ -39,11 +39,11 @@ body {
 
 .node text {
   font-size: 12px;
-  fill: rgb(0, 0, 0);
+  fill: white;
 }
 
 path.link {
   fill: none;
-  stroke: #ccc;
+  stroke: #777;
   stroke-width: 1px;
 }

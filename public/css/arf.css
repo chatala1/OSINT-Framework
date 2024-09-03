@@ -2,7 +2,7 @@ body {
   background-color: #1e272e;
   font-size: 14px;
   font-family: "Helvetica Neue", Helvetica;
-  color: #ffffff;
+  color:#fff;
 }
 
 #body {
@@ -23,7 +23,7 @@ body {
   right: 0;
   width: 330px;
   font-size: 11px;
-  color: #000;
+  color: #fff;
 }
 
 .node {

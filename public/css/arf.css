@@ -1,7 +1,7 @@
 body {
-  background-color: #1d1d1d;
+  background-color: #111827;
   font-size: 14px;
-  font-family: "Roboto", sans-serif;
+  font-family: "Moderustic", sans-serif;
   color:#fff;
 }
 
@@ -32,8 +32,8 @@ body {
 
 .node circle {
   cursor: pointer;
-  fill: #fff;
-  stroke: steelblue;
+  fill: #86efac;
+  stroke: #dcfdc7;
   stroke-width: 1.5px;
 }
 
@@ -44,6 +44,6 @@ body {
 
 path.link {
   fill: none;
-  stroke: #777;
+  stroke: #4b5563;
   stroke-width: 1px;
 }

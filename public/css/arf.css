@@ -32,12 +32,11 @@ body {
 }
 
 .legend {
-  bottom: 0px;
   right: 0px;
   width: 330px;
   font-size: 11px;
   color: #333;
-  
+  position: absolute;
 }
 
 .footnote {

@@ -20,6 +20,10 @@ body {
   padding: 5px;
 }
 
+#footer {
+  
+}
+
 .sat_icon {
   width: 1.75rem;
   margin: 0.25rem;
@@ -29,13 +33,20 @@ body {
 .legend {
   position: relative;
   bottom: 0px;
-  right: 0;
+  right: 0px;
   width: 330px;
   font-size: 11px;
   color: #333;
   padding:3px 20px;
-  margin: 1rem;
+  margin: 5px 50px;
+  float:right;
 }
+
+.footnote {
+  float:left;
+}
+
+
 
 .node {
   cursor: pointer;

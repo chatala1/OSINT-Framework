@@ -21,7 +21,8 @@ body {
 }
 
 #footer {
-  
+  margin:0 auto;
+  padding:5px;
 }
 
 .sat_icon {
@@ -44,6 +45,9 @@ body {
 
 .footnote {
   text-align:center;
+  font-size:10px;
+  font-style:italic;
+  color:#2d2d2d;
 }
 
 

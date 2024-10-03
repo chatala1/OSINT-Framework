@@ -11,10 +11,10 @@ body {
 }
 
 #header {
-  font-size: 40px;
+  font-size: 36px;
   font-weight: bold;
   top: 20px;
-  text-align: center;
+  text-align: left;
 }
 
 .sat_icon {

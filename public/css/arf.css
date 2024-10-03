@@ -53,14 +53,13 @@ body {
 }
 
 
-
 .node {
   cursor: pointer;
 }
 
 .node circle {
   cursor: pointer;
-  fill: #1E88E5;
+  fill: #2d2d2d;
   stroke: #29B6F6;
   stroke-width: 1.5px;
 }

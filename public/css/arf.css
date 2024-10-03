@@ -30,6 +30,8 @@ body {
   width: 330px;
   font-size: 11px;
   color: #fff;
+  background: #212121;
+  margin: 0.25rem;
 }
 
 .node {

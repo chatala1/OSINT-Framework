@@ -42,6 +42,7 @@ body {
 }
 
 .legend a {
+  color: none;
   text-decoration:none;
 }
 

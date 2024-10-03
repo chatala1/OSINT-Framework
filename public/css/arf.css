@@ -3,6 +3,7 @@ body {
   font-size: 14px;
   font-family: "Lato", sans-serif;
   color:#fff;
+  margin: 0px;
 }
 
 #body {
@@ -16,8 +17,9 @@ body {
   top: 0px;
   left: 0px;
   text-align: left;
-  margin: 0px 180px;
-  padding: 5px;
+  padding: 10px 180px;
+  margin: 0px;
+  overflow: visible;
 }
 
 #footer {

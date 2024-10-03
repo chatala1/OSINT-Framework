@@ -61,7 +61,7 @@ function update(source) {
 
   nodeEnter.append("svg:circle")
       .attr("r", 1e-6)
-      .style("fill", function(d) { return d._children ? "lightsteelblue" : "#fff"; });
+      .style("fill", function(d) { return d._children ? "lightsteelblue" : "#29B6F6"; });
 
   nodeEnter.append('a')
       .attr("target", "_blank")

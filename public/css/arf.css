@@ -32,7 +32,7 @@ body {
 
 .node circle {
   cursor: pointer;
-  fill: #039BE5;
+  fill: #1E88E5;
   stroke: #29B6F6;
   stroke-width: 1.5px;
 }

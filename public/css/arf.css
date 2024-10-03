@@ -44,8 +44,10 @@ body {
 .footnote {
   text-align:center;
   font-size:10px;
-  font-style:italic;
-  color:#2d2d2d;
+}
+.footnote a {
+  text-decoration:none;
+  color: #333;
 }
 
 

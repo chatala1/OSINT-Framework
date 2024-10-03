@@ -27,7 +27,7 @@ body {
 }
 
 .legend {
-  position: fixed;
+  position: relative;
   bottom: 0px;
   right: 0;
   width: 330px;

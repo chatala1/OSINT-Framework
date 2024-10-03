@@ -32,7 +32,6 @@ body {
 }
 
 .legend {
-  position: relative;
   bottom: 0px;
   right: 0px;
   width: 330px;
@@ -40,7 +39,6 @@ body {
   color: #333;
   padding:3px 20px;
   margin: 5px 50px;
-  float:right;
 }
 
 .footnote {

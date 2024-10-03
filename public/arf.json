@@ -426,10 +426,20 @@
         "url": "https://pentest-tools.com/information-gathering/find-subdomains-of-domain"
       },
       {
+        "name": "Threat Intelligence Platform (M)",
+        "type": "url",
+        "url": "https://threatintelligenceplatform.com/report/error"
+      },
+	{
+        "name": "SOC Radar",
+        "type": "url",
+        "url": "https://socradar.io"
+      },      
+	{
         "name": "SecLists DNS Subdomains (T)",
         "type": "url",
         "url": "https://github.com/danielmiessler/SecLists/tree/master/Discovery/DNS"
-      },
+      },      
       {
         "name": "dnspop (T)",
         "type": "url",
@@ -461,10 +471,15 @@
       "type": "folder",
       "children": [
       {
-        "name": "Shodan",
+        "name": "Shodan (R)",
         "type": "url",
         "url": "https://www.shodan.io/"
       },
+	{
+        "name": "Kamerka.io (R)",
+        "type": "url",
+        "url": "https://www.kamerka.io/"
+      },      
       {
         "name": "ODIN (R)",
         "type": "url",

@@ -25,7 +25,7 @@ body {
 
 .legend {
   position: absolute;
-  top: 0px;
+  bottom: 0px;
   right: 0;
   width: 330px;
   font-size: 11px;

@@ -86,7 +86,7 @@ function update(source) {
 
   nodeUpdate.select("circle")
       .attr("r", 6)
-      .style("fill", function(d) { return d._children ? "#03a9f4" : "#03a9f4"; });
+      .style("fill", function(d) { return d._children ? "fuschia" : "fuschia"; });
 
   nodeUpdate.select("text")
       .style("fill-opacity", 1);

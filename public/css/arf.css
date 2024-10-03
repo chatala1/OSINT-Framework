@@ -1,5 +1,5 @@
 body {
-  background-color: #111827;
+  background-color: #212121;
   font-size: 14px;
   font-family: "Moderustic", sans-serif;
   color:#fff;
@@ -32,8 +32,8 @@ body {
 
 .node circle {
   cursor: pointer;
-  fill: #86efac;
-  stroke: #dcfdc7;
+  fill: #1976D2;
+  stroke: #29B6F6;
   stroke-width: 1.5px;
 }
 

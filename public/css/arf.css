@@ -11,7 +11,7 @@ body {
 }
 
 #header {
-  font-size: 36px;
+  font-size: 24px;
   font-weight: bold;
   top: 20px;
   text-align: left;
@@ -29,8 +29,7 @@ body {
   right: 0;
   width: 330px;
   font-size: 11px;
-  color: #fff;
-  background: #121212;
+  color: #333;
   padding:3px 20px;
   margin: 1rem;
 }
